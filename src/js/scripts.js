@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
         backSpeed: 60,
         loop: true,
         showCursor: true,
-        cursorChar: "✏️",
+        cursorChar: "🖉",
         startDelay: 500,
         backDelay: 1000,
     });
